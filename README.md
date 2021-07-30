@@ -1,6 +1,6 @@
 # c-sharp-compiler-at-runtime-create-executable-using-c-sharp-dynamic-code
 This project will help you to create a dynamic run time executable with c# code, you write c# code in textbox and click run it will create executable of that c# code. In simple words this is c# compiler.<hr>
-**(NOTE: Just run the same code two times and create two executable then check both signature/hash values (virustotal.com). Both will be different. So every time you use this compiler to compile the code it will build the executable with new hash/signature even with same code. )**
+**(NOTE: Just run the same code two times and create two executable then check both signature/hash values (virustotal.com). Both will be different. So every time you use this compiler to compile the code it will build the executable with new hash/signature even with same code. )**<hr>
 <b>Purpose:</b>
 <ol><li>Compiler </li>
   
