@@ -1,0 +1,9 @@
+C:\Users\black\source\repos\test-form\test-form\bin\Debug\test-form.exe.config
+C:\Users\black\source\repos\test-form\test-form\bin\Debug\test-form.exe
+C:\Users\black\source\repos\test-form\test-form\bin\Debug\test-form.pdb
+C:\Users\black\source\repos\test-form\test-form\obj\Debug\test_form.Form1.resources
+C:\Users\black\source\repos\test-form\test-form\obj\Debug\test_form.Properties.Resources.resources
+C:\Users\black\source\repos\test-form\test-form\obj\Debug\test-form.csproj.GenerateResource.cache
+C:\Users\black\source\repos\test-form\test-form\obj\Debug\test-form.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\test-form\test-form\obj\Debug\test-form.exe
+C:\Users\black\source\repos\test-form\test-form\obj\Debug\test-form.pdb
