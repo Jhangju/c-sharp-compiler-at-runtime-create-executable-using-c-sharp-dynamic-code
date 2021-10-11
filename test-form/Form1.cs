@@ -1,4 +1,4 @@
-﻿using Microsoft.CSharp;
+using Microsoft.CSharp;
 using System;
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
@@ -10,7 +10,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using System.IO;
+using System.Net;
+using System.Security.Cryptography;
+using System.Threading;
 namespace test_form
 {
     public partial class Form1 : Form
@@ -46,6 +49,8 @@ namespace test_form
             parameters.ReferencedAssemblies.Add("System.Net.dll");//System.Net.HttpStatusCode
             parameters.ReferencedAssemblies.Add("System.Windows.dll");//System.Net.HttpStatusCode
             parameters.ReferencedAssemblies.Add("System.Net.Http.dll");//System.Net.HttpStatusCode
+            parameters.ReferencedAssemblies.Add("System.Web.dll");//System.Net.HttpStatusCode
+
             var assemblies = AppDomain.CurrentDomain
                             .GetAssemblies()
                             .Where(a => !a.IsDynamic)
